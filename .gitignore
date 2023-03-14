@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+*.png
+*.jpeg
+*.jpg
+/COVID-19 Dataset
+/'COVID-19 Dataset'
+
+
 # C extensions
 *.so
 
